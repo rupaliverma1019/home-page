@@ -1,0 +1,19 @@
+.search-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 300px 30px 0 30px;
+    border-radius: 60px;
+    background-color: bisque;
+}
+
+.icon1 {
+    padding-left: 300px;
+    border-radius: 12px;
+}
+
+.icon2 {
+    border-radius: 12px;
+}
